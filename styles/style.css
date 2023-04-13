@@ -1,0 +1,39 @@
+.pleasure , a:hover {
+    color: turquoise;
+}
+
+html {
+    font-family: 'Amatic SC', cursive;
+    background-color: #F6F857;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 10px 10px 10px;
+    padding: 20px 0;
+    color: #F6F857;
+    background-color: turquoise;
+    text-shadow: 3px 3px 5px black;
+}
+
+p, li {
+    font-size: 23px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 580px;
+}
+
+body {
+    width: auto;
+    margin: 0 auto;
+    background-color: #F6F857;
+}
+
+
+
